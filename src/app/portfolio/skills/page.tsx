@@ -1,6 +1,6 @@
 export default function SkillsSection() {
     return (
-        <section className="h-screen snap-center flex items-center justify-center">
+        <section className="h-screen flex items-center justify-center">
             <div className="text-center">
                 <h2 className="text-4xl font-bold">Mes Compétences</h2>
                 <ul className="mt-6 space-y-3">

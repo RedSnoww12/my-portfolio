@@ -1,6 +1,6 @@
 export default function ContactSection() {
     return (
-        <section className="h-screen snap-start flex items-center justify-center">
+        <section className="h-screen flex items-center justify-center">
             <div className="text-center">
                 <h2 className="text-4xl font-bold">Contact</h2>
                 <p className="mt-4">Contactez-moi via mes réseaux sociaux :</p>
