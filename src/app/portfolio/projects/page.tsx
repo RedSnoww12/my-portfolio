@@ -2,7 +2,7 @@ import Image from "next/image";
 
 export default function ProjectsSection() {
     return (
-        <section className="h-screen flex flex-col items-center justify-center">
+        <section className="p-4 flex flex-col items-center justify-center">
             <h2 className="text-6xl font-bold">Mes Projets</h2>
             <div className="mt-6 grid grid-cols-1 sm:grid-cols-2 gap-4 sm:gap-8">
                 <div className="max-w-sm sm:max-w-md bg-foreground rounded flex-col items-center justify-center text-background text-center p-4 shadow shadow-foreground">

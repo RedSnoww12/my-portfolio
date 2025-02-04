@@ -5,7 +5,7 @@ import ContactSection from "@/app/portfolio/contact/page";
 
 export default function PortfolioPage() {
     return (
-        <div className="h-screen w-full overflow-y-scroll snap-mandatory snap-y scroll-smooth no-scrollbar">
+        <div className="w-full scroll-smooth no-scrollbar flex-col">
             <AboutSection />
             <SkillsSection />
             <ProjectsSection />

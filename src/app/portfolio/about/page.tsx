@@ -3,7 +3,7 @@ import AnimatedWrapper from "@/components/animated-wrapper/AnimatedWrapper";
 export default function AboutSection() {
     return (
         <section
-            className="h-screen flex items-center justify-center">
+            className="min-h-screen p-4 flex items-center justify-center">
             <div className="text-center">
                 <AnimatedWrapper>
                     <h1 className="text-5xl sm:text-6xl md:text-8xl font-bold text-white">Bienvenue chez moi !</h1>
