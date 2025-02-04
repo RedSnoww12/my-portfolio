@@ -1,6 +1,6 @@
 export default function SkillsSection() {
     return (
-        <section className="p-4 flex items-center justify-center bg-gray-900 text-white px-6">
+        <section className="p-4 flex items-center justify-center text-white px-6">
             <div className="max-w-3xl text-center">
                 <h2 className="text-4xl font-bold">Mes Compétences</h2>
                 <p className="mt-4 text-lg text-gray-300">
@@ -12,14 +12,14 @@ export default function SkillsSection() {
                         <h3 className="text-2xl font-semibold text-blue-400">React.js</h3>
                         <p className="mt-2 text-gray-300">
                             Expérimenté en développement front-end avec React.js, je conçois des interfaces dynamiques et performantes.
-                            J'utilise les hooks (`useState`, `useEffect`, `useContext`) et des bibliothèques comme React Query et Redux pour gérer l'état des applications.
+                            J&#39;utilise les hooks (`useState`, `useEffect`, `useContext`) et des bibliothèques comme React Query et Redux pour gérer l&#39;état des applications.
                         </p>
                     </div>
 
                     <div>
                         <h3 className="text-2xl font-semibold text-blue-400">Next.js</h3>
                         <p className="mt-2 text-gray-300">
-                            J'exploite Next.js pour développer des applications optimisées avec **Server-Side Rendering (SSR)** et **Static Site Generation (SSG)**.
+                            J&#39;exploite Next.js pour développer des applications optimisées avec **Server-Side Rendering (SSR)** et **Static Site Generation (SSG)**.
                             Son système de routing et sa gestion avancée du SEO en font un excellent choix pour les applications modernes.
                         </p>
                     </div>
@@ -44,7 +44,7 @@ export default function SkillsSection() {
                         <h3 className="text-2xl font-semibold text-blue-400">Azure / AWS</h3>
                         <p className="mt-2 text-gray-300">
                             J’ai des compétences en **Cloud Computing** avec Azure et AWS, notamment sur le déploiement d’applications, la gestion des bases de données cloud et les services serverless.
-                            J’utilise **Azure DevOps** et **AWS Lambda** pour automatiser le CI/CD et optimiser l'hébergement d’applications.
+                            J’utilise **Azure DevOps** et **AWS Lambda** pour automatiser le CI/CD et optimiser l&#39;hébergement d’applications.
                         </p>
                     </div>
 
