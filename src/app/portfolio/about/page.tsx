@@ -6,8 +6,8 @@ export default function AboutSection() {
             className="min-h-screen p-4 flex items-center justify-center">
             <div className="text-center">
                 <AnimatedWrapper>
-                    <h1 className="text-5xl sm:text-6xl md:text-8xl font-bold text-white">Bienvenue chez moi !</h1>
-                    <p className="mt-4 text-lg text-gray-200 max-w-5xl">
+                    <h1 className="text-5xl sm:text-6xl md:text-8xl font-bold">Bienvenue chez moi !</h1>
+                    <p className="mt-4 text-lg max-w-5xl">
                         Je suis Software Engineer chez AXA France, où je développe des applications performantes et
                         évolutives en utilisant principalement React.js pour le front-end et Spring Boot pour le
                         back-end. Mon expertise couvre l’architecture cloud avec Azure, ainsi que la conteneurisation et
